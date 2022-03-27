@@ -1,0 +1,42 @@
+.btn-orange{
+    background-color: #E76F51;
+}
+.bg-header{
+    background-color: #264653;
+}
+.header-para{
+    color: #E0E0E0;
+    ;
+}
+.text-orange{
+    color: #E76F51;
+}
+.news-color{
+    color: #6C6C6C;
+}
+.btn-outline-orange{
+    border:1px solid #E76F51 ;
+}
+.icon-color{
+    color: #E77C40
+    ;
+}
+.icon-border-color{
+    border: 1px solid #E77C40;
+}
+.accordion-title{
+    color: #383838;
+}
+.accordion-body-color{
+    color: #7E848C;
+}
+
+/* media query */
+@media (max-width: 576px) {
+   .banner-img img{
+       width: 321px;
+   }
+   .header-para{
+       font-size: 16px;
+   }
+  }
